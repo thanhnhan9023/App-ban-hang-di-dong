@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image:url(go.jpg);
+	background-repeat:no-repeat;
+	background-size: 1400px 1200px;
+}
+
+.luulai,.lamlai{
+	cursor:pointer;
+}
+div.tieude{
+	padding:0px;
+	width:500px;
+	height:60px;
+	text-align:center;
+	margin-left:350px;
+}
+h3{
+	margin:0px;
+	padding:0px;
+	color:#F00;
+	font-size:25px;
+}
+h5{
+	margin:0px;
+	padding:0px;
+	font-size:20px;
+}
+div.themsampham{
+	border:2px solid #000;
+	background-color:#999;
+	width:500px;
+	height:555px;
+	margin-left:350px;
+}
+form{
+	border:5px solid #FFF;
+	background-color:#999;
+	padding-left:40px;	
+	padding-top:50px;
+}
+table td,th{
+	padding:20px;
+}
+div.loi{
+	width:500px;
+	height:20px;
+	text-align:center;
+	margin-left:350px;
+}
+div.loi ul li{
+	list-style:none;
+	color:#F00;
+	font-size:20px;	
+}
+
+
+
